@@ -1,0 +1,8 @@
+{
+  "name": "rats",
+  "version": "1.0.0",
+  "description": "A terminal client for getting rat bastards json",
+  "main": "reformat.ts",
+  "author": "GageBachik",
+  "license": "MIT"
+}
